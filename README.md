@@ -1,0 +1,2 @@
+# ejabberdocker
+ejabberd docker container
